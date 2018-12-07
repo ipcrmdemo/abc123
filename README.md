@@ -16,7 +16,7 @@ You can run the service locally using the following from the cfommand:
 ```
 $ ./mvnw spring-boot:run
 ```
-fff
+ffff
 ### Run tests
 
 This service comes with some rudimentary tests as a good starting
