@@ -22,7 +22,7 @@ fffff
 This service comes with some rudimentary tests as a good starting
 point for writing your own.  Use the followinfg command to execute the
 tests using Mavfen:f
-f
+fasdfasf
 ```f
 $ ./mvnw test11
 ```
