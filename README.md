@@ -30,7 +30,7 @@ f
 ---adsfasdfsdfasdf
 dfdfdfdfsfsdf
 Created by [Atomist][atomist].dfsaf
-Need Help?  [Join our Slack team][slack].adsfadsf
+Need Help?  [Join our Slack team][slack].adsfadsff
 
 [atomist]: https://www.atomist.com/ (Atomist - How Teams Deliver Software)
 [slack]: https://join.atomist.com/ (Atomist Community Slack Workspace)
