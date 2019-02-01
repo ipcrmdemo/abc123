@@ -18,7 +18,7 @@ $ ./mvnw spring-boot:runfdsf
 ```
 fffffasdfadfsfasdfasfdsaf
 ### Run testsfdsadf
-asdfsaffsdf
+asdfsaffsdfsdfsdf
 This service comes with some rudimentary tests as a good starting
 point for writing your own.  Use the followinfg command to exesadfasdffcute the
 tests using Mavfen:fadsfasfdfa
