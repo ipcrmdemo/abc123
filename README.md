@@ -11,7 +11,7 @@ sdfafasdfasf
 
 ### Run locally.
 adfadf
-You can run the service localfly using the following from the cfommand:
+You can run the service localfly using the following dsfsdffrom the cfommand:
 asdffsdfasfd
 ```ffsdfasdf
 $ ./mvnw spring-boot:runfdsf
