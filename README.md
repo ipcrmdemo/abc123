@@ -19,7 +19,7 @@ $ ./mvnw spring-boot:frunfdsfadfasfdfsasdfafdsaffdfdasafsa
 fffffasdfadfsfasdfasfdsafadsfaffahkjfsddsffsdfsdfdffd
 ### Run testsfdsadfdsadfsdfsdffsfffdffda
 asdfsaffsdfsdfsdfasdfafddfsadfdsfsdfsdfffy tests as a gadsfasdfood stsaasdfdfadfdfartingsdfasdf
-point for writing your own.  Use the followiffnfgff commafnd to exesdfsasdfasfadfasdffcasdfdfaute the
+point for writing your own.  Use the followiffnffdfgff commafnd to exesdfsasdfasfadfasdffcasdfdfaute the
 tests using Mavfen:fadsfasfdfaasdfasdfsdfdsffwqerasdf
 fasdfasfadfasdfdsfsdf
 ```fasdfasdfsdaafdsaf
