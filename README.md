@@ -14,7 +14,7 @@ adfadffdsfssddsdfadsfadfsdfsafdasdfadf
 You can run the service localfly using the following dsdffsdffsfsdffrom asdfadfthe cfommand:asdfasdfsfsdfa
 asdffsdfasfdsdfdsfaaaaaaaaaaaaaafaasdfasdfsdff
 ```ffsdfasdfasdfdsdaasd
-$ ./mvnw spring-boot:frunfdsfadfasfdfsasdfafdsafdfdasafsa
+$ ./mvnw spring-boot:frunfdsfadfasfdfsasdfafdsaffdfdasafsa
 ```asdfsdfdfsdfsfasdadfasdfasfdasdfafasd
 fffffasdfadfsfasdfasfdsafadsfaffahkj
 ### Run testsfdsadfdsadfsdfsdffsdffda
