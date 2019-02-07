@@ -21,7 +21,7 @@ fffffasdfadfsfasdfasfdsafadsfaffahkj
 asdfsaffsdfsdfsdfasdfafddfsadfdsfsdfsdf
 This service comes with some rudimentary tests as a gadsfasdfood stsaasdfdfadfdfartingsdfasdf
 point for writing your own.  Use the followinfg command to exesasdfasfadfasdffcasdfdfaute the
-tests using Mavfen:fadsfasfdfaasdfasdfsdfdsfwqer
+tests using Mavfen:fadsfasfdfaasdfasdfsdfdsfwqerasdf
 fasdfasfadfasdfdsf
 ```fasdfasdfsdaafds
 $ ./mvnw test11sadfsadf
