@@ -20,7 +20,7 @@ fffffasdfadfsfasdfasfdsafadsfaffahkj
 ### Run testsfdsadfdsadfsdfsdffsdffd
 asdfsaffsdfsdfsdfasdfafddfsadfdsfsdfsdf
 This service comes with some rudimentary tests as a gadsfasdfood stsaasdfadfdfartingsdfasdf
-point for writing your own.  Use the followinfg command to exesasdfasfadfasdffcute the
+point for writing your own.  Use the followinfg command to exesasdfasfadfasdffcasdfdfaute the
 tests using Mavfen:fadsfasfdfaasdfasdfsdfdsfwqer
 fasdfasfadfa
 ```fasdfasdfsdaafds
