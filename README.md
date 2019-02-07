@@ -17,7 +17,7 @@ asdffsdfasfdsdfdsfaaaaaaaaaaaaaaaasdf
 $ ./mvnw spring-boot:runfdsfadfasfdfsasdfafdsadfdasaf
 ```asdfsdfdfsdfsf
 fffffasdfadfsfasdfasfdsafadsfaff
-### Run testsfdsadfdsadfsdfsdff
+### Run testsfdsadfdsadfsdfsdffsdffd
 asdfsaffsdfsdfsdfasdfafddfsadfdsf
 This service comes with some rudimentary tests as a good stsadfarting
 point for writing your own.  Use the followinfg command to exesadfasdffcute the
