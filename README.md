@@ -19,7 +19,7 @@ $ ./mvnw spring-boot:runfdsfadfasfdfsasdfafdsadfdasaf
 fffffasdfadfsfasdfasfdsafadsfaffahkj
 ### Run testsfdsadfdsadfsdfsdffsdffd
 asdfsaffsdfsdfsdfasdfafddfsadfdsfsdfsdf
-This service comes with some rudimentary tests as a good stsaasdfadfdfartingsdfasdf
+This service comes with some rudimentary tests as a gadsfasdfood stsaasdfadfdfartingsdfasdf
 point for writing your own.  Use the followinfg command to exesasdfasfadfasdffcute the
 tests using Mavfen:fadsfasfdfaasdfasdfsdfdsf
 fasdfasfadfa
