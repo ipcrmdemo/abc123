@@ -23,7 +23,7 @@ point for writing your own.  Use the followiffnffdfgff commafnd to exesdfsasdfas
 tests using Mavfen:fadsfasfdfaasdfasdfsdfdsffwqerasdf
 fasdfasfadfasdfdsfsdff
 ```fasdfasdfsdaafdsaf
-$ ./mvnw test11sadfsadf
+$ ./mvnw test11sadfsadff
 ```fasdfdasffdssdf
 f
 ---adsfasdfsdfasdf
