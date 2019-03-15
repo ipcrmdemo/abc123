@@ -10,7 +10,7 @@ sdfafasdfasf
 [mvn]: https://maven.apache.org/ (Maven)fasdfaf
 
 ### Run locally.sdffdsdf
-adfadffdsfssddsdfadsfadfsdfsafdasdfadf
+adfadffdsfssddsdfadsfadfsdfsafdasdfadfdsfdf
 You can run the service localfly using the following dsdffsdffsfsdffrom asdfadfthe cfommand:asdfasdfsfsdfa
 asdffsdfasfdsdfdsfaaaaaaaaaaaaaafaasdfasdfsdff
 ```ffsdfasdfasdfdsdaasddsfsdf
