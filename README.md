@@ -32,6 +32,6 @@ Need Help?  [Join our Slack team][slack].adsfadsff
 sdfadasfads
 [atomist]: https://www.atomist.com/ (Atomist - How Teams Deliver Software)
 [slack]: https://join.atomist.com/ (Atomist Community Slack Workspace)
-some new change.dfsafd
+some new change.dfsafdf
 adfadf
 f
