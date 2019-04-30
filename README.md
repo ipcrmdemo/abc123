@@ -28,7 +28,7 @@ $ ./mvnw test11sadfsadff
 ---adsfasdfsdfasdff
 dfdfdfdfsfsdf
 Created by [Atomist][atomist].dfsaffff
-Need Help?  [Join our Slack team][slack].adsfadsff
+Need Help?  [Join our Slack team][slack].f
 sdfadasfads
 [atomist]: https://www.atomist.com/ (Atomist - How Teams Deliver Software)
 [slack]: https://join.atomist.com/ (Atomist Community Slack Workspace)
